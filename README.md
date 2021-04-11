@@ -7,6 +7,20 @@ Basic [Code](https://github.com/nirajan-mandal/Gray-Scott-Reaction-Diffusion-Mod
 
 ![Code flow chart](https://github.com/nirajan-mandal/Gray-Scott-Reaction-Diffusion-Model/blob/main/Code_Flow_chart_2.jpg "Code flow chart")
 
-## Example: simulation using three nodes
+## Example: simulation using three nodes. Each node has 100x100 grid. The boundry wraps such that the recation occours on a torus surface.
 
-test
+Parameters:
+
+* Du=0.16 
+* Dv=0.08 
+* k=0.055 
+* f=0.02
+
+Last frame output, see vidoe simulation below
+(https://github.com/nirajan-mandal/Gray-Scott-Reaction-Diffusion-Model/blob/main/7_graph102475.jpg "Last frame")
+
+
+[Video simulation](https://github.com/nirajan-mandal/Gray-Scott-Reaction-Diffusion-Model/blob/main/exp7.mp4)
+
+
+Leopard (https://github.com/nirajan-mandal/Gray-Scott-Reaction-Diffusion-Model/blob/main/leopard.jpg)
