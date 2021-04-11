@@ -18,11 +18,11 @@ Parameters:
 * k=0.055 
 * f=0.02
 
-Last frame output, see vidoe simulation below
+Last frame output, see vidoe simulation below, that matches leopard's skin pattern.
 ![Leopard pattern](https://github.com/nirajan-mandal/Gray-Scott-Reaction-Diffusion-Model/blob/main/7_graph102475.jpg "Leopard pattern")
 
 Video Simulation
-![Video simulation](https://github.com/nirajan-mandal/Gray-Scott-Reaction-Diffusion-Model/blob/main/exp7.mp4)
+[![Watch the video](https://github.com/nirajan-mandal/Gray-Scott-Reaction-Diffusion-Model/blob/main/leopard.jpg)](https://github.com/nirajan-mandal/Gray-Scott-Reaction-Diffusion-Model/blob/main/exp7.mp4)
 
 
-![Leopard](https://github.com/nirajan-mandal/Gray-Scott-Reaction-Diffusion-Model/blob/main/leopard.jpg "Leopard")
+
