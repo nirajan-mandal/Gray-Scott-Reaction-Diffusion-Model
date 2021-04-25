@@ -23,5 +23,9 @@ Last frame output, see vidoe simulation below, that matches leopard's skin patte
 
 Video Simulation [MP4 file](https://github.com/nirajan-mandal/Gray-Scott-Reaction-Diffusion-Model/blob/main/exp7.mp4)
 
+![](https://github.com/nirajan-mandal/Gray-Scott-Reaction-Diffusion-Model/blob/main/exp7_reduce_file_size_25MB.gif)
+
+
+
 ![Leopard](https://github.com/nirajan-mandal/Gray-Scott-Reaction-Diffusion-Model/blob/main/leopard.jpg "Leopard")
 
