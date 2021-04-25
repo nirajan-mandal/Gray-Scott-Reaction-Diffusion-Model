@@ -21,7 +21,7 @@ Parameters:
 Last frame output, see vidoe simulation below, that matches leopard's skin pattern.
 ![Leopard pattern](https://github.com/nirajan-mandal/Gray-Scott-Reaction-Diffusion-Model/blob/main/7_graph102475.jpg "Leopard pattern")
 
-Video Simulation [MP4 file](https://github.com/nirajan-mandal/Gray-Scott-Reaction-Diffusion-Model/blob/main/exp7.mp4) file
+Video Simulation [MP4 file](https://github.com/nirajan-mandal/Gray-Scott-Reaction-Diffusion-Model/blob/main/exp7.mp4)
 
 ![Leopard](https://github.com/nirajan-mandal/Gray-Scott-Reaction-Diffusion-Model/blob/main/leopard.jpg "Leopard")
 
