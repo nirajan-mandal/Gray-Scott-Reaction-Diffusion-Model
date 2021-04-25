@@ -1,5 +1,5 @@
 # Gray-Scott Reaction Diffusion Model
-Modeling Gray-Scott Reaction Diffusion Model using  MPI in C++. This was my final project for the scientific computing seminar (SCMP 401) at Kenyon college.
+Modeling Gray-Scott Reaction Diffusion Model using  MPI in C++. This was my final project for the Scientific Computing seminar (SCMP 401) at Kenyon College.
 
 ## C++ MPI Code
 
